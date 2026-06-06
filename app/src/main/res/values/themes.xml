@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base theme. The real colors come from the Compose Material 3 theme;
+         this only needs to be a Material3-compatible parent so the system bars
+         and the pre-Compose window background behave. -->
+    <style name="Theme.SnapRecipe" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/snap_amber</item>
+        <item name="android:windowBackground">@color/snap_cream</item>
+    </style>
+</resources>

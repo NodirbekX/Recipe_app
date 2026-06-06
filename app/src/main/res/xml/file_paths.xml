@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Maps the app's private cache/images dir to the FileProvider authority,
+         so a content:// URI can be handed to the camera for the captured photo. -->
+    <cache-path
+        name="captured_images"
+        path="images/" />
+    <external-cache-path
+        name="external_captured_images"
+        path="images/" />
+</paths>

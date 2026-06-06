@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- A simple fork + spoon glyph centered in the adaptive-icon safe zone. -->
+    <group
+        android:scaleX="2.6"
+        android:scaleY="2.6"
+        android:translateX="32"
+        android:translateY="30">
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M3,2C3,2 3,5.5 3,6.5C3,7.3 3.6,8 4.4,8.1L4,16H6L5.6,8.1C6.4,8 7,7.3 7,6.5C7,5.5 7,2 7,2H6V5H5.5V2H4.5V5H4V2H3Z" />
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M11,2C9.9,2 9,3.6 9,5.5C9,7.1 9.6,8.4 10.5,8.8L10,16H12L11.5,2H11Z" />
+    </group>
+</vector>
